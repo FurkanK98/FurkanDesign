@@ -1,0 +1,130 @@
+.Design {
+    background-image: url("../images/design.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    font-family: arial;
+}
+
+#Banner {
+    text-align: center;
+    background-color: #a52a2a;
+    color: orange;
+    border-radius: 12px;
+    border: 2px solid orange;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    padding-bottom: 60px;
+}
+
+#BestellNr {
+    position: absolute;
+}
+
+#Passwort {
+    margin-left: 200px;
+    position: absolute;
+}
+
+#BestellungAbfragen {
+    background-color: orange;
+    border-radius: 12px;
+    border: 2px solid white;
+    color: #a52a2a;
+    padding: 7.5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    position: absolute;
+    margin-top: 28px;
+    margin-left: -270px;
+}
+
+#BestellungAbfragen:hover {
+    background-color: #a52a2a;
+    color: orange;
+}
+
+#Warenkorb {
+    text-align: right;
+    font-style: italic;
+    margin-top: 15px;
+    margin-left: 550px;
+    color: orange;
+    text-decoration: none;
+    position: absolute;
+}
+
+#Trikotshop {
+    text-align: center;
+    background-color: #a52a2a;
+    color: orange;
+    border-radius: 12px;
+    border: 4px solid orange;
+    padding: 15px 15px;
+    margin-left: 305px;
+    margin-right: 305px;
+    padding-bottom: 16px;
+}
+
+table {
+    border-radius: 10px;
+    border-color: orange;
+    background-color: #a52a2a;
+    color: orange;
+    text-align: center;
+    font-family: 'Allerta Stencil';
+    font-size: 15px;
+    padding-bottom: 0px;
+    position: relative;
+    margin-left: 10px;
+    float: left;
+}
+
+#Button {
+    background-color: orange;
+    border-radius: 12px;
+    border: 2px solid white;
+    color: #a52a2a;
+    padding: 7.5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+#Button:hover {
+    background-color: #a52a2a;
+    color: orange;
+}
+
+select {
+    background-color: orange;
+    border-radius: 12px;
+    border: 2px solid white;
+    color: #a52a2a;
+    padding: 7px 3px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+select:hover {
+    background-color: #a52a2a;
+    color: orange;
+}

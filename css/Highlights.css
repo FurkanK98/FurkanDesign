@@ -1,0 +1,84 @@
+.Design {
+    background-image: url("../images/Nef Stadyum.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    font-family: arial;
+}
+
+h3 {
+    padding-top: 4px;
+    padding-bottom: 5px;
+}
+
+#Textfeld {
+    text-align: center;
+    background-color: #a52a2a;
+    color: orange;
+    border-radius: 12px;
+    border: 2px solid orange;
+    padding: 10px 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+table {
+    color: orange;
+    font-family: 'Allerta Stencil';
+    font-size: 15px;
+    position: relative;
+    padding-left: 70px;
+    padding-right: 140px;
+}
+
+#td-heimlogo {
+    color: orange;
+}
+
+#td-heim {
+    color: orange;
+    text-align: center;
+    padding-left: 20px;
+}
+
+#td-ergebnis {
+    color: orange;
+    padding-left: 30px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+#td-auswärts {
+    color: orange;
+}
+
+#td-auswärtslogo {
+    color: orange;
+    padding-right: 70px;
+}
+
+#Abstand {
+    margin-top: 50px;
+}
+
+#ZurückButton {
+    background-color: orange;
+    border-radius: 12px;
+    border: 2px solid white;
+    color: #a52a2a;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    font-weight: bold;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+#ZurückButton:hover {
+    background-color: #a52a2a;
+    color: orange;
+}

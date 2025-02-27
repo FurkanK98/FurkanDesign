@@ -1,0 +1,79 @@
+.Design {
+    background-image: url("../images/design.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+    font-family: arial;
+}
+
+#Bestellung-Container {
+    text-align: center;
+    background-color: #a52a2a;
+    color: orange;
+    border-radius: 12px;
+    border: 2px solid orange;
+    padding: 15px 15px;
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 209px;
+    position: relative;
+}
+
+#Überschrift {
+    border-radius: 10px;
+    border-color: orange;
+    background-color: #a52a2a;
+    color: orange;
+    text-align: center;
+    font-family: 'Allerta Stencil';
+    font-size: 15px;
+    padding-bottom: 0px;
+    position: relative;
+    margin-left: 10px;
+    width: 800px;
+}
+
+#Bestellübersicht {
+    border-radius: 10px;
+    border-color: orange;
+    background-color: #a52a2a;
+    color: orange;
+    text-align: center;
+    font-family: 'Allerta Stencil';
+    font-size: 15px;
+    padding-bottom: 0px;
+    position: relative;
+    margin-left: 10px;
+    width: 800px;
+}
+
+#Gesamtpreis {
+    border-radius: 10px;
+    border-color: orange;
+    background-color: #a52a2a;
+    color: orange;
+    text-align: center;
+    font-family: 'Allerta Stencil';
+    font-size: 15px;
+    padding-bottom: 0px;
+    position: relative;
+    margin-left: 630px;
+    width: 15%;
+}
+
+#Daten {
+    border-radius: 10px;
+    border-color: orange;
+    background-color: #a52a2a;
+    color: orange;
+    text-align: center;
+    font-family: 'Allerta Stencil';
+    font-size: 15px;
+    padding-bottom: 0px;
+    position: absolute;
+    margin-left: 835px;
+    margin-top: 0px;
+    width: 29%
+}
